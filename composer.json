@@ -1,5 +1,5 @@
 {
-    "name": "sverraest/revolut-php",
+    "name": "romaxx/revolut-php",
     "description": "PHP Bindings for the Revolut Business API",
     "keywords": ["revolut", "api", "business", "php"],
     "type": "library",
